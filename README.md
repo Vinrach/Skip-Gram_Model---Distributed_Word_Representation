@@ -1,6 +1,7 @@
 # Advanced-NLP-Project
-Distributed Representation of Words and Phrases and their Compositionality.
+# Distributed Representation of Words and Phrases and their Compositionality.
 
+# Abstract
 In the paper “Distributed Representations of Words and Phrases and Their Compositionality,” the 
 researchers offer an improved skip-gram model for learning word vectors, which greatly advances the 
 quality and speed of word representations. Key milestones consist of subsampling for frequent words 
@@ -10,7 +11,7 @@ help the model capture better syntactic and semantic relations between words. Be
 that is addressed in the paper is representing phrases and idiomatic expressions used in detecting such 
 phrases and forming vector representations.
 
-Objective
+# Objective
 The outcome of this research paper is to increase the capabilities of the Skip-gram model to further enhance 
 the word vector quality, accelerate the training process and effectively handle the representation of 
 phrases that cannot be simply created from their individual word components.
