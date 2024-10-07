@@ -11,7 +11,7 @@ that is addressed in the paper is representing phrases and idiomatic expressions
 phrases and forming vector representations.
 
 # Objective
-The outcome of this research paper is to increase the capabilities of the Skip-gram model to further enhance 
+The outcome of this project is to increase the capabilities of the Skip-gram model to further enhance 
 the word vector quality, accelerate the training process and effectively handle the representation of 
 phrases that cannot be simply created from their individual word components.
 To achieve these goals, the researchers suggested a number of significant changes and enhancements 
@@ -28,7 +28,7 @@ the entire SoftMax function. The paper, for example, shows that the hierarchical
 Huffman codes required 41 minutes to achieve a total accuracy of 47% on the analogical reasoning task, 
 whereas negative sampling with five negative samples required 38 minutes of training and a total 
 accuracy of 59%.
-Another important contribution of this research paper is the development of a process for representing 
+Another important contribution of this research paper is developing a process for representing 
 phrases as unique tokens rather than just combinations of their constituent words. This process mainly 
 addresses the drawbacks of initial word vector representation, which have difficulty in understanding 
 multi-word and idiomatic sentences. For example, the meanings of "New York" and "Times" cannot be 
